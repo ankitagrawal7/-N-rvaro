@@ -1,2 +1,2 @@
-# -Narvaro
+# Narvaro
 Attendance tracking system with OpenCV
