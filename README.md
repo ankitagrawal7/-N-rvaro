@@ -1,2 +1,2 @@
-# -N-rvaro
+# -Narvaro
 Attendance tracking system with OpenCV
